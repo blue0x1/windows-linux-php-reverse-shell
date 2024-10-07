@@ -7,6 +7,9 @@ This is a simple **PHP reverse shell** that works on both **Windows** and **Linu
 - **Windows**: Access the script with `?os=windows`, and it will run a **PowerShell** reverse shell on the target machine.
 - **Linux**: Access it with `?os=linux`, and it will run a **bash** reverse shell.
 
+
+![image](https://github.com/user-attachments/assets/a9a38364-a255-457d-89cc-99b98d0f5e04)
+
 ## Usage Instructions
 
 ### 1. Set Up a Netcat Listener

